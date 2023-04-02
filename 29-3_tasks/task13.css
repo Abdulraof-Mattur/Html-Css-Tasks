@@ -1,0 +1,18 @@
+table td{
+
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    width: 87px;
+    box-shadow: 3px 3px 2px 0 rgba(0, 0, 0, 0.711);
+}
+
+.h{
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 145px;
+  }

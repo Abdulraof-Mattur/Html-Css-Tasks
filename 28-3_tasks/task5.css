@@ -1,0 +1,32 @@
+h2{
+    margin-left: 60%;
+    color: blue;
+    
+}
+
+form{
+
+
+    color: blue;
+    
+    margin-left: 35%;
+    text-align: center;
+    
+}
+
+.rad{
+
+    text-align: left;
+    margin-left: 45%;
+}
+
+.h{
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+    display: inline-block;
+    text-decoration: none;
+    margin-left:66%;
+    margin-top: 10px;
+  }

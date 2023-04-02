@@ -1,0 +1,52 @@
+form{
+
+    width: 30%;
+    margin-top: 100px;
+    margin-left: 500px;
+
+
+
+
+
+}
+
+fieldset{
+
+
+
+    background-color:rgb(255, 237, 212);
+    margin-bottom: 10px;
+
+}
+
+
+.h{
+    padding-left: 50px;
+}
+
+.a{
+
+    margin-left: 185px;
+    border-radius: 10px;
+}
+
+
+.fix{
+
+
+    display: inline-block;
+    width:120px;
+    text-align: left;
+    padding: 0px 30px;
+}
+
+.g{
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 698px;
+  }
+

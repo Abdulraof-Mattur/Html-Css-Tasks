@@ -1,0 +1,35 @@
+table{
+
+    border-style: dotted;
+}
+
+
+table td{
+
+    padding: 10px;
+    
+    text-align: center;
+
+    border-style: dotted;
+
+}
+
+table th{
+
+    text-align: center;
+    padding: 10px;
+
+    border-style: dotted;
+}
+
+
+.h{
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 500px;
+    
+  }

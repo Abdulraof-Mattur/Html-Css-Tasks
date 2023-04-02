@@ -1,0 +1,45 @@
+h1{
+
+    font-family:'Courier New', Courier, monospace;
+}
+
+
+h2{
+
+    color: brown;
+    background-color: rgb(255, 253, 193);
+
+}
+
+
+.num{
+
+    color: brown;
+    text-decoration: underline;
+}
+
+.bro{
+
+    color: brown;
+}
+
+
+.h{
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 50%;
+  }
+
+  .fix{
+
+
+    display: inline-block;
+    width:50px;
+    text-align: left;
+    padding: 0px 15px;
+    margin-top: 2px;
+}

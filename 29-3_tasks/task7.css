@@ -1,0 +1,50 @@
+body{
+
+    background-color:#ffface;
+}
+
+.two{
+
+
+    background-color: white;
+    border: 1px solid black;
+    margin-bottom: 9px;
+    padding-left: 9px;
+
+}
+
+.par{
+
+    background-color:burlywood;
+    font-weight: bold;
+}
+
+.hi{
+
+    background-color: yellow;
+}
+
+.three{
+
+    background-color: white;
+    color: red;
+    border: 1px dashed red;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.dash{
+
+    border: 1px dashed red;
+}
+
+
+.h{
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 80px;
+    margin-left: 720px;
+  }

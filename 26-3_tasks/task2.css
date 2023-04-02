@@ -1,0 +1,20 @@
+img{
+
+    width: 900px;
+    height: 400px;
+}
+
+.fa-brands{
+
+    color: blue;
+    font-size: 30px;
+}
+
+.h{
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+    display: inline-block;
+    text-decoration: none;
+  }
