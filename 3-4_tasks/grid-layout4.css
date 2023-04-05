@@ -1,0 +1,21 @@
+.parent {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: repeat(9, 1fr);
+  grid-column-gap: 4px;
+  grid-row-gap: 4px;
+  width: 100%;
+  height: 722px;
+}
+
+    
+    .div1 { grid-area: 1 / 1 / 10 / 2;  background-color: #FF9B6D; color:white ; display: grid;  justify-content: center; align-items: center; font-size: 25px;font-weight: bold;}
+
+    .div2 { grid-area: 1 / 2 / 2 / 7; background-color: #FFD37C;color:white;  display: grid;  justify-content: center; align-items: center; font-size: 25px;font-weight: bold;}
+
+    .div3 { grid-area: 2 / 2 / 3 / 6; background-color: #C8D878;color:white;  display: grid;  justify-content: center; align-items: center; font-size: 25px;font-weight: bold;} 
+
+    .div4 { grid-area: 2 / 6 / 3 / 7; background-color: #7DBCA9;color:white;  display: grid;  justify-content: center; align-items: center; font-size: 25px;font-weight: bold;}
+
+    .div5 { grid-area: 3 / 2 / 10 / 7; background-color: #87CEEB; color:white;  display: grid;  justify-content: center; align-items: center; font-size: 25px;font-weight: bold;}
+

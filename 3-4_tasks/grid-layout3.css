@@ -1,0 +1,15 @@
+.parent {
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    grid-template-rows: repeat(7, 1fr);
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
+    width: 100%;
+    height: 722px;
+    }
+    
+    .div1 { grid-area: 1 / 1 / 4 / 7; background-color: #FF9B6D; color:white ; display: grid;  justify-content: center; align-items: center;font-size: 25px; font-weight: bold;}
+    .div2 { grid-area: 4 / 1 / 7 / 4; background-color: #FFD37C; color:white ; display: grid;  justify-content: center; align-items: center;font-size: 25px;font-weight: bold;}
+    .div3 { grid-area: 4 / 4 / 7 / 7; background-color: #C8D878; color:white ; display: grid;  justify-content: center; align-items: center;font-size: 25px;font-weight: bold;}
+    .div4 { grid-area: 1 / 7 / 7 / 10; background-color: #7DBCA9; color:white ; display: grid;  justify-content: center; align-items: center;font-size: 25px;font-weight: bold;}
+    .div5 { grid-area: 7 / 1 / 8 / 10; background-color: #87CEEB; color:white ; display: grid;  justify-content: center; align-items: center;font-size: 25px;font-weight: bold;}
